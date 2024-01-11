@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'RobotoCondensed-VariableFont_wght';
+  src: url(./RobotoCondensed-VariableFont_wght.eot);
+  src: url(./RobotoCondensed-VariableFont_wght.eot?#iefix) format('embedded-opentype'),
+       url(./RobotoCondensed-VariableFont_wght.svg#RobotoCondensed-VariableFont_wght) format('svg'),
+       url(./RobotoCondensed-VariableFont_wght.ttf) format('truetype'),
+       url(./RobotoCondensed-VariableFont_wght.woff) format('woff');
+}

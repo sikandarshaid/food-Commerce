@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Merienda-VariableFont_wght';
+  src: url(Merienda-One/Merienda-VariableFont_wght.eot) format('embedded-opentype'),
+       url(Merienda-One/Merienda-VariableFont_wght.svg) format('svg'),
+       url(Merienda-One/Merienda-VariableFont_wght.ttf) format('truetype'),
+       url(Merienda-One/Merienda-VariableFont_wght.woff) format('woff');
+}
+@font-face {
+  font-family: 'RobotoCondensed-VariableFont_wght';
+  src: url(roboto-cosmuned/RobotoCondensed-VariableFont_wght.eot) format('embedded-opentype'),
+       url(roboto-cosmuned/RobotoCondensed-VariableFont_wght.svg) format('svg'),
+       url(roboto-cosmuned/RobotoCondensed-VariableFont_wght.ttf) format('truetype'),
+       url(roboto-cosmuned/RobotoCondensed-VariableFont_wght.woff) format('woff');
+}

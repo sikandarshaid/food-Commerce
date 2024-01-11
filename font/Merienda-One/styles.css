@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Merienda-VariableFont_wght';
+  src: url(./Merienda-VariableFont_wght.eot);
+  src: url(./Merienda-VariableFont_wght.eot?#iefix) format('embedded-opentype'),
+       url(./Merienda-VariableFont_wght.svg#Merienda-VariableFont_wght) format('svg'),
+       url(./Merienda-VariableFont_wght.ttf) format('truetype'),
+       url(./Merienda-VariableFont_wght.woff) format('woff');
+}
